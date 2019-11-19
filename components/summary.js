@@ -27,7 +27,7 @@ export default class summary extends Component {
     };
   }
   render() {
-
+    
     return(
       <View style={styles.container}>
       <Text style = {{fontSize: 20, marginTop: 30}}> Thank you for your order! </Text>
